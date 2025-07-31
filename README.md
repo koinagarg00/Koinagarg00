@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koina Garg</h1>
-<h3 align="center">🔍 Data Analyst | 📊 Aspiring Data Scientist | 📌 Python • SQL • ML • Power BI</h3>
+<h3 align="center">🔍 Data Analyst | 📊 Aspiring Data Scientist | 📌 Python • SQL • ML • Power BI • Excel </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
