@@ -24,12 +24,22 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack & Tools
 
-| 📍Languages & Libraries | 📍Analytics & Visualization | 📍Platforms & Tools |
-|------------------------|-----------------------------|---------------------|
-| Python, SQL, Excel     | Power BI, Tableau, Matplotlib, Seaborn | Jupyter, Git & GitHub, VS Code |
-| Pandas, NumPy          | Plotly, Excel Charts        | Streamlit, Google Colab |
+As a data analyst with a growing focus on data science, I work with a range of tools for data extraction, analysis, visualization, and machine learning. Here's a snapshot of my technical toolkit:
+
+### 📊 Data Analysis & Reporting
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🐍 Programming & Data Science
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3C3C3C?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 ---
