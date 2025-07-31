@@ -47,7 +47,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-🔗 [View Project Repo](https://github.com/yourusername/titanic-project)
+🔗 [View Project Repo]([https://github.com/yourusername/titanic-project(https://github.com/koinagarg00/Titanic_analysis_prediction))
 
 ---
 
@@ -62,7 +62,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-🔗 [View Project Repo](https://github.com/yourusername/retail-sales-analysis)
+🔗 [View Project Repo](https://github.com/yourusername/retail-sales-analysishttps://github.com/koinagarg00/online-retails-sales)
 
 ---
 
@@ -77,7 +77,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
-🔗 [View Project Repo](https://github.com/yourusername/student-performance-analysis)
+🔗 [View Project Repo]([https://github.com/yourusername/student-performance-analysis](https://github.com/koinagarg00/Student-performance-anaylis))
 
 ---
 
@@ -92,7 +92,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=mysql&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-🔗 [View Project Repo](https://github.com/yourusername/web-scraping-analysis)
+🔗 [View Project Repo]([https://github.com/yourusername/web-scraping-analysis](https://github.com/koinagarg00/SAl_DS_project))
 
 
 
