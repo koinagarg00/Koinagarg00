@@ -38,7 +38,6 @@
 ---
 
 ### 🧠 Titanic Survival Prediction  
-<img src="https://github.com/yourusername/titanic-project/blob/main/assets/titanic-dashboard.png" width="700"/>
 
 > Predicting passenger survival using machine learning and visualizing patterns in Power BI.
 
