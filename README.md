@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-E97627?style=for-the-badge&logo=excel&logoColor=white" />
 </p>
 
 ---
@@ -30,36 +30,72 @@
 |------------------------|-----------------------------|---------------------|
 | Python, SQL, Excel     | Power BI, Tableau, Matplotlib, Seaborn | Jupyter, Git & GitHub, VS Code |
 | Pandas, NumPy          | Plotly, Excel Charts        | Streamlit, Google Colab |
-| Scikit-learn, TensorFlow, Keras | NLTK, SpaCy         | MongoDB, CSV/JSON/XML handling |
+
+
+---
+## 🚀 Featured Projects
 
 ---
 
-## 💼 Featured Projects
+### 🧠 Titanic Survival Prediction  
+<img src="https://github.com/yourusername/titanic-project/blob/main/assets/titanic-dashboard.png" width="700"/>
 
-### 📊 Power BI Sales Dashboard
-<p>
-<img src="https://github.com/yourusername/your-repo/assets/screenshot1.png" width="700"/>
-</p>
-• Built an interactive Power BI dashboard to visualize sales trends, profit margins, and customer segments.  
-• Skills: Power BI, DAX, Data Modeling, Data Cleaning (Excel)
+> Predicting passenger survival using machine learning and visualizing patterns in Power BI.
 
----
+- 🤖 **ML Models**: Logistic Regression, Random Forest  
+- 📊 **Dashboard**: Age, Class, and Gender-based survival insights  
+- 🔧 **Tools**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### 🧠 Customer Segmentation Using ML (K-Means)
-<p>
-<img src="https://github.com/yourusername/your-repo/assets/gif-clustering.gif" width="700"/>
-</p>
-• Performed clustering on customer data for personalized marketing using K-Means  
-• Skills: Python, scikit-learn, EDA, Seaborn
+🔗 [View Project Repo](https://github.com/yourusername/titanic-project)
 
 ---
 
-### 📈 COVID-19 EDA in Python
-<p>
-<img src="https://github.com/yourusername/your-repo/assets/covid-dashboard.png" width="700"/>
-</p>
-• Performed EDA on real-time COVID-19 datasets, revealing patterns by country and timeline  
-• Skills: Pandas, Matplotlib, Plotly
+### 🛒 Online Retail Sales Analysis  
+<img src="https://github.com/yourusername/retail-sales-analysis/blob/main/assets/retail-dashboard.png" width="700"/>
+
+> Analyzed online retail data and built a Power BI dashboard for actionable insights.
+
+- 📦 Tracked revenue, country-wise sales, customer trends  
+- 📊 KPIs and DAX for product performance  
+- 🔧 **Tools**: ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+🔗 [View Project Repo](https://github.com/yourusername/retail-sales-analysis)
+
+---
+
+### 🎓 Student Performance Analysis  
+<img src="https://github.com/yourusername/student-performance-analysis/blob/main/assets/student-eda.png" width="700"/>
+
+> Explored student score patterns and used SQL + statistics to uncover performance trends.
+
+- 🧪 EDA on gender, parental education, test prep  
+- 📈 Visualized score distributions and correlations  
+- 🔧 **Tools**: ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+
+🔗 [View Project Repo](https://github.com/yourusername/student-performance-analysis)
+
+---
+
+### 🌐 Web Scraping & EDA  
+<img src="https://github.com/yourusername/web-scraping-analysis/blob/main/assets/scraping-eda.png" width="700"/>
+
+> Scraped data from a live website, stored and analyzed it using SQL and EDA techniques.
+
+- 🔍 BeautifulSoup for scraping structured product data  
+- 📊 Cleaned & visualized insights using Pandas  
+- 🔧 **Tools**: ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=mysql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+🔗 [View Project Repo](https://github.com/yourusername/web-scraping-analysis)
+
+
 
 ---
 
