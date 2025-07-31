@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koina Garg</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 <h3 align="center">🔍 Data Analyst | 📊 Aspiring Data Scientist | 📌 Python • SQL • ML • Power BI • Excel </h3>
 
 <p align="center">
@@ -56,6 +59,7 @@ As a data analyst with a growing focus on data science, I work with a range of t
 - 🔧 **Tools**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 
 🔗 [View Project Repo](https://github.com/koinagarg00/Titanic_analysis_prediction))
 
