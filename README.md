@@ -66,7 +66,6 @@ As a data analyst with a growing focus on data science, I work with a range of t
 ---
 
 ### 🛒 Online Retail Sales Analysis  
-<img src="https://github.com/yourusername/retail-sales-analysis/blob/main/assets/retail-dashboard.png" width="700"/>
 
 > Analyzed online retail data and built a Power BI dashboard for actionable insights.
 
@@ -81,7 +80,6 @@ As a data analyst with a growing focus on data science, I work with a range of t
 ---
 
 ### 🎓 Student Performance Analysis  
-<img src="https://github.com/yourusername/student-performance-analysis/blob/main/assets/student-eda.png" width="700"/>
 
 > Explored student score patterns and used SQL + statistics to uncover performance trends.
 
@@ -96,7 +94,6 @@ As a data analyst with a growing focus on data science, I work with a range of t
 ---
 
 ### 🌐 Web Scraping & EDA  
-<img src="https://github.com/yourusername/web-scraping-analysis/blob/main/assets/scraping-eda.png" width="700"/>
 
 > Scraped data from a live website, stored and analyzed it using SQL and EDA techniques.
 
